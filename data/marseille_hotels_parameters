@@ -1,0 +1,130 @@
+hotel_names,star_rating,distance_from_center,swimmingpool,breakfast,breakfast_and_dinner,free_cancellation,address,Air conditioning,Heating,WiFi is available in all areas and is free of charge.,City view,Wardrobe or closet,Soundproofing,TV,Coffee machine,Private bathroom,Lift,Safety deposit box,Pets are allowed. Charges may be applicable.,24-hour front desk,Bar,Room service,Fitness centre,Spa lounge/relaxation area,Electric kettle,Minibar,Tea/Coffee maker,Restaurant,Parking garage,Airport shuttle,Non-smoking rooms,24-hour security,Towels,Facilities for disabled guests,Hairdryer,Iron,Electric vehicle charging station
+Maisons du Monde Hôtel & Suites - Marseille Vieux Port,4,0.5 km from centre,0,1,0,1,"43 Quai des Belges, 13001 Marseille, France",1,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0
+Toyoko INN Marseille Saint Charles,3,0.7 km from centre,0,0,0,1,"25 Avenue du General Leclerc, 13003 Marseille, France",1,1,1,0,0,1,1,0,1,1,1,0,1,1,0,0,0,1,0,1,0,1,0,1,0,1,1,1,1,0
+Hôtel Hermès,2,0.5 km from centre,0,0,0,1,"2 rue Bonneterie, 13002 Marseille, France",1,1,1,0,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+Hôtel Maison Montgrand - Vieux Port,3,0.8 km from centre,0,1,0,1,"35 Rue Montgrand, 13006 Marseille, France",1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0
+Maison Juste,0,0.7 km from centre,0,0,0,1,"28 Rue Balthazar-Dieudé, Castellane et Préfecture, 13006 Marseille, France",1,1,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,0,0
+Ibis Marseille Centre Prefecture,3,0.8 km from centre,0,1,0,1,"13 Rue Lafon, Castellane et Préfecture, 13006 Marseille, France",1,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+Hôtel Carré Vieux Port,3,450 m from centre,0,1,0,1,"6, Rue Beauvau, 13001 Marseille, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,1,0,1,1,1,1,0
+Hôtel Life Marseille VP - Vieux Port,3,0.5 km from centre,0,1,0,1,"35 Quai Des Belges, 13001 Marseille, France",1,1,1,0,1,1,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Golden Tulip Villa Massalia,4,4.8 km from centre,1,1,0,1,"17 Place Louis Bonnefon, 13008 Marseille, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,1
+New Hotel Le Quai - Vieux Port,4,350 m from centre,0,1,0,1,"2 place Gabriel Péri, 13001 Marseille, France",1,1,1,1,1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,1,1,0,0
+Residhome Marseille Saint-Charles,3,450 m from centre,0,0,0,1,"10, Boulevard Charles Nedelec, 13001 Marseille, France",1,1,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,0
+ibis Styles Marseille Vieux Port,3,250 m from centre,0,1,0,1,"7/9 COURS SAINT LOUIS, 13001 Marseille, France",1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Holiday Inn Express Marseille Saint Charles, an IHG Hotel",3,0.5 km from centre,0,1,0,1,"15 Boulevard Maurice Bourdet, 13001 Marseille, France",1,1,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0
+Sofitel Marseille Vieux-Port,5,1.5 km from centre,0,1,0,1,"36 Boulevard Charles Livon, 13007 Marseille, France",1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,1,1,0,0,0
+Les Bords De Mer,0,2.1 km from centre,0,1,0,1,"52 corniche Kennedy, 13007 Marseille, France",1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0
+Résidence Kley,0,1.2 km from centre,0,0,0,1,"23 rue Mathieu Stilatti, 13003 Marseille, France",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+Hotel Belle-Vue Vieux-Port,3,0.5 km from centre,0,1,0,1,"34, Quai du Port, 13002 Marseille, France",1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,1,0
+"InterContinental Marseille - Hotel Dieu, an IHG Hotel",5,0.7 km from centre,1,1,1,1,"1 Place Daviel, 13002 Marseille, France",1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,1,0,0,0
+DOMITYS LA BADIANE,0,1.9 km from centre,1,0,0,1,"13 Boulevard Mirabeau, 13003 Marseille, France",1,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0
+Mercure Marseille Canebière Vieux-Port,4,200 m from centre,0,1,0,1,"48 La Canebiere, 13001 Marseille, France",1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,0,0,1,0,0,1,0,1,1,1,0,0
+Le Rhul,3,2.8 km from centre,0,0,0,1,"269 Corniche J-F Kennedy, 13007 Marseille, France",1,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0
+Mercure Marseille Centre Vieux Port,4,200 m from centre,0,1,0,1,"1 Rue Neuve Saint Martin, 13001 Marseille, France",1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+New Hotel of Marseille - Vieux Port,4,1.6 km from centre,1,1,0,1,"71 Boulevard Charles Livon, 13007 Marseille, France",1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,0,1,1,0,0,1,0,1,1,1,0,0
+Château Beaupin Chambres et Suites,0,6.4 km from centre,1,0,0,1,"37 avenue Beau Pin, 13008 Marseille, France",1,1,1,0,1,0,0,0,1,0,1,0,0,1,1,0,0,1,0,1,1,0,0,1,1,1,0,1,0,1
+Le Petit Nice - Passedat,5,2.9 km from centre,1,0,0,1,"17 rue des Braves, 13007 Marseille, France",1,1,1,0,1,0,0,0,1,1,1,0,1,1,1,0,0,0,1,0,1,0,0,1,1,0,1,1,0,1
+Kyriad Marseille Blancarde - Timone,3,1.9 km from centre,1,1,0,1,"2-4 Rue Emile Duclaux, 13004 Marseille, France",1,1,1,0,1,1,1,0,1,1,0,1,1,0,0,1,0,1,0,1,0,0,0,1,1,1,1,1,0,0
+nhow Marseille,4,3.4 km from centre,0,1,0,1,"200 Corniche J.F. Kennedy, 13007 Marseille, France",1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1
+Radisson Blu Hotel Marseille Vieux Port,4,1.1 km from centre,1,1,0,1,"38-40 Quai Rive Neuve, 13007 Marseille, France",1,1,1,0,0,0,0,0,1,1,1,0,1,1,1,1,0,1,0,0,1,1,0,1,1,0,1,0,0,0
+Villages Clubs du Soleil - Marseille,0,2 km from centre,1,1,1,1,"Rue François Simon, 13003 Marseille, France",1,1,1,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,1,0,0,0
+DOMITYS LA BADIANE,0,1.9 km from centre,1,0,0,1,"13 Boulevard Mirabeau, 13003 Marseille, France",1,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0
+ibis Styles Marseille Gare Saint-Charles,3,350 m from centre,0,1,0,1,"28 boulevard d'Athènes, 13001 Marseille, France",1,1,1,0,1,1,1,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+Residhotel Vieux Port,3,450 m from centre,0,0,0,1,"4 Rue Coutellerie, 13002 Marseille, France",1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mama Shelter Marseille,3,1.2 km from centre,0,1,0,1,"64 Rue de la Loubière, 13006 Marseille, France",1,1,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0
+boutique Hôtel Azur,2,0.7 km from centre,0,1,0,1,"24 cours Franklin Roosevelt, 13001 Marseille, France",1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+Novotel Marseille Vieux Port,4,1.6 km from centre,1,1,0,1,"36 Boulevard Charles Livon, 13007 Marseille, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,0,1,1,0,1,1,0,1,1,0,0
+La Residence Du Vieux Port,4,450 m from centre,0,0,0,1,"18 Quai Du Port, 13002 Marseille, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,1,0,1,1,1,0,0
+Hotel C2,5,1 km from centre,0,1,0,1,"48 rue Roux de Brignoles , 13006 Marseille, France",1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,1,0,1,1,0,1,0,1,1,1,0,0
+12,0,0.7 km from centre,0,0,0,1,"12 Rue Breteuil, 13001 Marseille, France",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,0,0
+Kyriad Marseille Palais Des Congrès – Vélodrome,3,2.6 km from centre,0,1,0,1,"162 Boulevard Rabatau Daniel Matalon, 13010 Marseille, France",1,1,1,0,1,1,0,0,1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,1,1,1,1,1,1,0
+Montempô Marseille Centre Dôme,0,2.7 km from centre,0,0,0,1,"5 impasse Madeleine Simon, 13004 Marseille, France",0,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+Twenty's Business Flats Marseille Timone,0,2.2 km from centre,0,0,0,1,"299 Rue Saint-Pierre, 13005 Marseille, France",0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+B&B HOTEL Marseille Prado Vélodrome,2,3.6 km from centre,0,0,0,1,"6 Allée Marcel Leclerc, 13008 Marseille, France",1,1,0,0,1,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+Grand Hotel Beauvau Marseille Vieux Port - MGallery,4,450 m from centre,0,1,0,1,"4 Rue Beauvau, 13001 Marseille, France",1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,1,1,1,1,1,0,0
+Mercure Marseille Centre Prado Vélodrome,4,3.3 km from centre,0,1,0,1,"11 Avenue De Mazargues, 13008 Marseille, France",1,1,1,0,1,1,1,0,0,1,1,1,1,1,1,0,0,0,1,0,0,1,0,1,1,1,1,1,0,0
+Residhome Marseille,4,1.1 km from centre,0,0,0,1,"23 Rue Mazenod, 13002 Marseille, France",1,1,0,0,1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,0
+Best Western Plus Hôtel La Joliette,4,1.1 km from centre,1,1,0,1,"49 Avenue Robert Schuman, 13002 Marseille, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,0,0,0,1,1,1,1,1,0,0
+Novotel Suites Marseille Centre Euromed,4,1.4 km from centre,0,1,0,1,"33, Boulevard de Dunkerque - La Joliette, 13002 Marseille, France",1,1,1,0,1,1,0,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,0
+Le Drip's,4,5.8 km from centre,1,1,0,1,"98 Avenue Elsa Triolet, 13008 Marseille, France",1,1,0,0,1,0,1,0,1,1,1,0,1,1,1,1,0,1,0,0,1,1,0,1,0,1,0,1,0,0
+Les Appartements du Vieux Port,0,400 m from centre,0,0,0,0,"48 rue Vacon, 13001 Marseille, France",1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Golden Tulip Marseille Euromed,4,1.5 km from centre,1,1,0,1,"6, Place Henri Verneuil, 13002 Marseille, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,0,0
+Citadines Prado Chanot Marseille,3,2.7 km from centre,0,0,0,1,"9-11 Boulevard du Louvain, 13008 Marseille, France",1,1,0,1,1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,1,0
+Aparthotel Adagio Access Marseille Prado Périer,0,2.3 km from centre,0,1,0,1,"161 Avenue de Prado, 13008 Marseille, France",1,1,1,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+LOFT VIEUX PORT,0,0.8 km from centre,0,0,0,1,"27 Cours Honoré d'Estienne d'Orves, 13001 Marseille, France",1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0
+Escale Oceania Marseille Vieux Port,3,400 m from centre,0,0,0,1,"5, La Canebière, 13001 Marseille, France",1,1,1,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+12,0,0.7 km from centre,0,0,0,1,"12 Rue Breteuil, 13001 Marseille, France",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,0,0
+NH Collection Marseille,4,0.9 km from centre,0,1,0,1,"37 Boulevard des Dames, 13002 Marseille, France",1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,1,0,1,1,1,0,0
+ibis Marseille Centre Gare Saint Charles,3,0.6 km from centre,0,1,0,1,"1 Square Narvick, 13001 Marseille, France",1,1,1,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0
+Appart'City Marseille Euromed,3,2 km from centre,0,0,0,1,"118-120 rue de Ruffi, 13003 Marseille, France",1,1,1,0,1,0,1,1,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0
+Aparthotel Adagio Marseille Timone,3,2.3 km from centre,0,1,0,1,"21, Chemin de l'Armée d'Afrique, 13005 Marseille, France",1,1,1,0,1,1,1,0,1,1,1,0,1,0,0,1,0,1,0,0,0,1,0,1,0,1,1,1,1,0
+Alex Hotel & Spa,3,400 m from centre,0,1,0,1,"13-15 Place des Marseillaises, 13001 Marseille, France",1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,1,1,1,0
+Montempô Marseille Centre Dôme,0,2.7 km from centre,0,0,0,1,"5 impasse Madeleine Simon, 13004 Marseille, France",0,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+Citadines Castellane Marseille,3,1.9 km from centre,0,0,0,1,"60 Rue du Rouet, Castellane et Préfecture, 13006 Marseille, France",1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,1,1,0
+Appart'City Confort Marseille Centre Prado Velodrome,3,2.3 km from centre,0,0,0,1,"1 Rue Vandel, 13008 Marseille, France",1,1,1,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0
+Apparteo Marseille,0,3.6 km from centre,0,0,0,1,"12 allée Marcel Leclerc, Bâtiment A, 13008 Marseille, France",0,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0
+ibis Marseille Bonneveine Calanques Plages,3,5.7 km from centre,0,1,0,1,"Avenue Elsa Triollet, 13008 Marseille, France",1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,0
+Les Petits Pavillons - MaisonMars,0,350 m from centre,0,0,0,1,"17 Rue Pavillon, 13001 Marseille, France",1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,1,0,1,1,1
+Meininger Marseille Centre la Joliette,0,1 km from centre,0,1,0,1,"25/27 Rue de Forbin, 13002 Marseille, France",0,1,0,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+Montempô Apparthôtel Marseille Centre Euromed,0,2 km from centre,0,0,0,1,"17 Rue René Cassin, 13003 Marseille, France",0,1,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+Aparthotel Adagio Marseille Prado Plage,3,3.8 km from centre,0,0,0,1,"46, rue des Mousses, 13008 Marseille, France",1,1,1,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+Hôtel 96,3,6.9 km from centre,1,0,0,1,"96 avenue de la Soude, 13009 Marseille, France",1,1,1,0,1,1,0,1,1,0,1,0,0,1,0,0,1,1,1,1,0,0,0,1,1,1,1,1,0,0
+ibis budget Marseille Vieux Port,2,0.8 km from centre,0,1,0,1,"46 Rue Sainte, 13001 Marseille, France",1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0
+Massilia hôtel,3,300 m from centre,0,0,0,1,"59 Rue des Dominicaines, 13001 Marseille, France",1,1,1,0,1,0,1,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,0
+Hotel Le M,3,1.1 km from centre,0,0,0,1,"115 Rue Paradis, Castellane et Préfecture, 13006 Marseille, France",1,1,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+Hôtel Edmond Rostand,3,1.1 km from centre,0,0,0,1,"31, Rue Dragon, Castellane et Préfecture, 13006 Marseille, France",1,1,1,0,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0
+La Maison Mickael,0,3.6 km from centre,0,0,0,1,"21 Promenade Georges Pompidou, 13008 Marseille, France",1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1
+Hotel Terminus Saint-Charles,3,400 m from centre,0,0,0,1,"1 Place Des Marseillaises, 13001 Marseille, France",1,1,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0
+Residence Services Calypso Calanques Plage,0,5.3 km from centre,0,0,0,1,"Hermès Park, 64 Avenue D'haifa, 13008 Marseille, France",1,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+URBAN LOFT Marseille,0,400 m from centre,0,0,0,1,"17-21 Place des Marseillaises, 13001 Marseille, France",1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,1,0
+B&B HOTEL Marseille Centre Vieux Port,3,450 m from centre,0,1,0,1,"62 Rue Puvis de Chavannes, 13002 Marseille, France",1,1,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+Twenty's Business Flats Marseille Timone,0,2.2 km from centre,0,0,0,1,"299 Rue Saint-Pierre, 13005 Marseille, France",0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+Le Ryad Boutique Hôtel,0,450 m from centre,0,1,0,1,"16, rue Sénac de Meilhan, 13001 Marseille, France",1,1,1,0,1,0,1,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0
+Saint Ferréol,3,450 m from centre,0,0,0,1,"19 rue Pisançon, 13001 Marseille, France",0,1,1,1,1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0
+B&B HOTEL Marseille Parc Chanot,2,2.9 km from centre,0,0,0,1,"35 Boulevard Rabatau, 13008 Marseille, France",1,1,1,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0
+Mercure Marseille Centre Bompard La Corniche,4,2.4 km from centre,0,1,1,1,"2, Rue des Flots Bleus, 13007 Marseille, France",1,1,1,0,1,0,1,0,1,1,1,0,1,1,1,0,0,1,0,1,0,0,0,1,1,1,1,1,0,0
+AC Hotel by Marriott Marseille Prado Vélodrome,4,3.5 km from centre,1,1,0,1,"4 allee Marcel Leclerc, 13008 Marseille, France",1,1,1,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,1,1,1,0
+Residhome Marseille,4,1.1 km from centre,0,0,0,1,"23 Rue Mazenod, 13002 Marseille, France",1,1,0,0,1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,0
+ibis Marseille Timone,3,2 km from centre,0,1,0,1,"107 Bd Sakakini, 13005 Marseille, France",1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,0
+Hôtel Le Mistral,0,5.6 km from centre,0,0,0,1,"8, Avenue des Goumiers, 13008 Marseille, France",1,1,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Residhotel Le Grand Prado,3,2.1 km from centre,0,0,0,1,"7 Square des Frères Ambrogiani - Allées Turcat Mery, 13008 Marseille, France",1,1,1,0,1,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+ibis Marseille Centre Euromed,3,1.3 km from centre,0,1,1,1,"25 Boulevard de Dunkerque, 13002 Marseille, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0
+Hotel le Corbusier,3,4.3 km from centre,0,0,0,1,"280 boulevard Michelet, 13008 Marseille, France",1,1,0,0,1,1,1,0,1,1,1,0,0,1,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,0
+B&B HOTEL Marseille Prado Parc des Expositions,3,2.3 km from centre,0,1,0,1,"6 Rue de Cassis, 13008 Marseille, France",1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0
+greet Marseille Centre Saint Charles,2,250 m from centre,0,1,0,1,"4, allées Léon Gambetta, 13001 Marseille, France",1,1,1,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+Best Western Hotel du Mucem,3,1.1 km from centre,0,1,0,1,"22 rue Mazenod, 13002 Marseille, France",1,1,1,0,1,0,1,0,1,1,1,0,1,0,1,0,0,1,0,1,0,0,0,1,1,1,1,1,0,0
+Novotel Marseille Centre Prado Vélodrome,4,2.1 km from centre,0,1,0,1,"103, Avenue du Prado, 13008 Marseille, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,0,1,0,0,1,0,0,1,1,1,1,1,0,0
+Hôtel du Rocher,0,6.7 km from centre,0,0,0,1,"141 avenue de Lattre de Tassigny, 13009 Marseille, France",1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+B&B HOTEL Marseille Euromed,2,1.5 km from centre,0,0,0,1,"44 rue de Ruffi, 13003 Marseille, France",1,1,1,0,1,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+Résidence Carpe Diem,0,1.8 km from centre,0,0,0,1,"Résidence Carpe Diem 29 rue Pautrier, 13004 Marseille, France",0,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,1,0
+B&B HOTEL Marseille Centre La Joliette,3,1.1 km from centre,0,0,0,1,"52 Rue de Forbin, 13002 Marseille, France",1,1,0,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+Aparthotel Adagio Access Marseille Saint Charles,3,0.8 km from centre,0,1,0,1,"23, Rue Honnorat, 13003 Marseille, France",1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+ibis Styles Marseille Centre Prado Castellane,3,1.7 km from centre,0,1,0,1,"31 rue du Rouet, Castellane et Préfecture, 13006 Marseille, France",1,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0
+Hôtel Maison Saint Louis - Vieux Port,3,300 m from centre,0,1,0,1,"2 Rue Des Récolettes, 13001 Marseille, France",1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0
+City Résidence Marseille,0,3.4 km from centre,0,0,0,1,"515 rue Saint Pierre, 13012 Marseille, France",0,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0
+Ibis Budget Marseille Timone,2,1.9 km from centre,0,0,0,1,"69, Boulevard Sakakini, 13005 Marseille, France",1,1,1,1,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0
+Les Appartements du Vieux Port,0,400 m from centre,0,0,0,0,"48 rue Vacon, 13001 Marseille, France",1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Premiere Classe Marseille La Valentine,1,8 km from centre,0,0,0,1,"117 Traverse De La Montre - Centre Commercial Grand V, 13011 Marseille, France",1,1,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+Campanile Marseille Saint Antoine,3,9.2 km from centre,0,0,0,1,"59 Avenue Anne-Marie, 13015 Marseille, France",1,1,1,0,1,0,1,0,1,0,0,1,1,1,0,0,0,1,0,1,1,1,0,1,1,1,1,0,0,0
+B&B HOTEL Marseille Centre La Timone,2,2.2 km from centre,0,1,0,1,"1-3 Chemin De l'Armée d'Afrique, 13005 Marseille, France",1,1,1,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0
+ibis budget Marseille L'Estaque,2,8.1 km from centre,0,0,0,1,"17, rue du Docteur Zamenhof, 13016 Marseille, France",1,1,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0
+Résidence Meublée Services,0,1 km from centre,0,0,0,1,"23 rue d'Italie, Castellane et Préfecture, 13006 Marseille, France",1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,1,0
+Staycity Aparthotels Centre Vieux Port,3,350 m from centre,0,0,0,1,"4 Place Pierre Bertas, 13001 Marseille, France",1,1,1,0,1,1,1,1,1,1,0,0,1,1,0,0,0,1,0,1,0,1,0,1,1,1,1,1,1,0
+Ibis Budget Marseille Est Porte d'Aubagne,2,10.9 km from centre,0,1,0,1,"184, Avenue de Saint Menet, 13011 Marseille, France",1,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+Odalys City Marseille Canebière,0,450 m from centre,0,0,0,1,"9 Rue Sénac de Meilhan, 13001 Marseille, France",0,1,1,0,1,1,1,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0
+hotelF1 Marseille EST,0,8.2 km from centre,0,0,0,1,"117 Traverse de la Montre ZAC de Valentine, 13011 Marseille, France",1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+Hôtel Raphael Prado - entièrement rénové en mars 2022,0,3.5 km from centre,0,0,0,0,"72 Avenue De Mazargues, 13008 Marseille, France",0,1,1,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+Odalys City Marseille Prado Castellane,3,2.3 km from centre,0,0,0,1,"114 rue du Rouet et 12 rue de Cassis, 13008 Marseille, France",1,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,0
+Ibis Budget Marseille Valentine,2,7.9 km from centre,0,0,0,1,"149 Traverse De La Martine, 13012 Marseille, France",1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+B&B HOTEL Marseille La Valentine St Menet,2,10.8 km from centre,0,1,0,1,"La Valentine-Saint Menet, domaine de la Reynarde, 13011 Marseille, France",1,1,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+B&B HOTEL Marseille La Valentine,2,8.4 km from centre,0,0,0,1,"ZAC La Valentine Montée du Commandant de Robien, 13011 Marseille, France",1,1,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+Novotel Marseille Est Porte d'Aubagne,4,10.9 km from centre,1,1,0,1,"184 Avenue de Saint Menet, 13011 Marseille, France",1,1,1,0,1,1,1,0,1,1,0,1,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,0,0
+Odalys City Marseille Le Dôme,3,2.5 km from centre,0,0,0,1,"27, Boulevard du Marechal Juin, 13004 Marseille, France",1,1,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+B&B HOTEL Marseille Estaque,2,7.7 km from centre,0,1,0,0,"ZAC de Saumaty Séon Rue Pascal Xavier Coste, 13016 Marseille, France",1,1,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+B&B Hôtel Marseille La Valentine Porte d'Aubagne,3,9.6 km from centre,0,1,0,1,"Avenue de Saint Menet, 13011 Marseille, France",1,1,1,0,1,1,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+Hotel Monte-Cristo,0,400 m from centre,0,0,0,1,"8 Rue de la Palud, 13001 Marseille, France",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,1,0
+HOTEL SYLVABELLE,1,1.1 km from centre,0,0,0,1,"63 Rue Sylvabelle, Castellane et Préfecture, 13006 Marseille, France",0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+Chambre privée avec jacuzzi,0,1 km from centre,0,0,0,1,"8 Boulevard Eugène Pierre, 13005 Marseille, France",1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+Five Stars S1,0,100 m from centre,0,0,0,0,"20 Cours Belsunce, 13001 Marseille, France",1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+FIVE STARS S8,0,100 m from centre,0,0,0,0,"20 Cours Belsunce, 13001 Marseille, France",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+FIVE STARS S2,0,100 m from centre,0,0,0,0,"20 Cours Belsunce, 13001 Marseille, France",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0

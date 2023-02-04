@@ -1,6 +1,127 @@
 hotel_names,star_rating,distance_from_center,swimmingpool,breakfast,breakfast_and_dinner,free_cancellation,address,Air conditioning,Heating,WiFi is available in all areas and is free of charge.,City view,Wardrobe or closet,Soundproofing,TV,Coffee machine,Private bathroom,Lift,Safety deposit box,Pets are allowed. Charges may be applicable.,24-hour front desk,Bar,Room service,Fitness centre,Spa lounge/relaxation area,Electric kettle,Minibar,Tea/Coffee maker,Restaurant,Parking garage,Airport shuttle,Non-smoking rooms,24-hour security,Towels,Facilities for disabled guests,Hairdryer,Iron,Electric vehicle charging station
-Villa Florentine,5,0.8 km from centre,1,1,0,1,"25 Montée St Barthélémy, 5th arr., 69005 Lyon, France",0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0
-Best Western Hotel du Pont Wilson,4,0.7 km from centre,0,1,0,1,"6, rue Mazenod, 3rd arr., 69003 Lyon, France",0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+Villa Florentine,5,0.8 km from centre,1,1,0,1,"25 Montée St Barthélémy, 5th arr., 69005 Lyon, France",1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1
+Best Western Hotel du Pont Wilson,4,0.7 km from centre,0,1,0,1,"6, rue Mazenod, 3rd arr., 69003 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,0,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,1,0,0
 "Hotel De Verdun 1882, BW Signature Collection",3,0.9 km from centre,0,0,0,1,"82 Rue de la Charité, 2nd arr., 69002 Lyon, France",1,1,1,0,1,0,1,0,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0
-Campanile Lyon Centre - Berges du Rhône,3,0.8 km from centre,0,1,0,1,"4-6, rue Mortier, 3rd arr., 69003 Lyon, France",0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
-Warwick Reine Astrid - Lyon,4,2.3 km from centre,0,1,0,1,"24 Boulevard des Belges, 6th arr., 69006 Lyon, France",0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+Campanile Lyon Centre - Berges du Rhône,3,0.8 km from centre,0,1,0,1,"4-6, rue Mortier, 3rd arr., 69003 Lyon, France",1,1,1,0,1,0,1,0,1,1,0,1,1,1,0,0,0,1,0,1,0,1,0,1,1,1,1,1,1,1
+Warwick Reine Astrid - Lyon,4,2.3 km from centre,0,1,0,1,"24 Boulevard des Belges, 6th arr., 69006 Lyon, France",1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,0,0,0,0
+La Résidence,3,300 m from centre,0,1,0,1,"18, Rue Victor Hugo, 2nd arr., 69002 Lyon, France",1,1,1,1,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1,1,0,0,0,1,1,1,0,1,1,0
+"InterContinental Lyon - Hotel Dieu, an IHG Hotel",5,400 m from centre,0,1,0,1,"20 Quai Jules Courmont, 2nd arr., 69002 Lyon, France",1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,0
+Hotel Saint Vincent,3,1.2 km from centre,0,0,0,1,"9 rue Pareille, 1st arr., 69001 Lyon, France",1,1,1,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0
+Hôtel Lyon Métropole,4,3.6 km from centre,0,1,0,1,"85 quai Joseph Gillet, 4th arr., 69004 Lyon, France",1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0,1,1,0,1,1,0,1,1,0,1
+Residence Montempo Lyon Cite Internationale,0,3.6 km from centre,0,0,0,1,"35 Quai Charles de Gaulle, 6th arr., 69006 Lyon, France",1,1,1,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,1
+Hotel Elysée,2,250 m from centre,0,0,0,1,"92 rue Président Edouard Herriot, 2nd arr., 69002 Lyon, France",1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Résidence Montempô Part Dieu,0,2.6 km from centre,0,0,0,1,"30 Avenue Georges Pompidou, 3rd arr., 69003 Lyon, France",1,1,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0
+Hotel ParkSaône,3,4 km from centre,0,1,0,1,"26, rue Félix Mangini - Rue des mûriers, 9th arr., 69009 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,0,0,1,0,0,1,1,0,1,0,1,1,1,0,1
+Fourvière Hôtel,4,1.3 km from centre,1,1,0,1,"23 rue Roger Radisson, 5th arr., 69005 Lyon, France",1,1,1,0,1,1,0,0,1,1,1,0,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,1,1,1
+Hôtel Silky by HappyCulture,4,0.6 km from centre,0,1,0,1,"2, Place Francisque Régaud, 2nd arr., 69002 Lyon, France",1,1,1,0,1,0,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0
+Bayard Bellecour,3,150 m from centre,0,1,0,1,"23 Place Bellecour, 2nd arr., 69002 Lyon, France",1,1,1,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0
+Best Western Crequi Lyon Part Dieu,4,1.2 km from centre,0,1,0,1,"37, Rue de Bonnel, 3rd arr., 69003 Lyon, France",1,1,1,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0,1
+Best Western Richelieu Lyon Part-Dieu,3,2.3 km from centre,0,0,0,1,"25 rue Lalande, Part Dieu, 6th arr., 69006 Lyon, France",1,1,1,0,1,0,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0
+Hôtel Chromatics & Restaurant Hill Club,3,1.5 km from centre,0,1,1,1,"12 rue Marc Antoine Petit, 2nd arr., 69002 Lyon, France",1,1,1,1,1,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0
+Hôtel de l'Abbaye - Lyon,4,0.6 km from centre,0,1,0,1,"20 Rue de l'Abbaye d'Ainay, 2nd arr., 69002 Lyon, France",1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,1
+Hotel des Savoies Lyon Perrache,3,0.9 km from centre,0,1,0,1,"80 Rue de la Charité, 2nd arr., 69002 Lyon, France",1,1,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,1,0,1,1,1,0,1,0,0
+MEININGER Hotel Lyon Centre Berthelot,0,1.4 km from centre,0,1,0,1,"Rue Professeur Zimmermann 7, 7th arr., 69007 Lyon, France",1,1,1,0,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+Lyon Marriott Hotel Cité Internationale,4,3.4 km from centre,0,1,0,1,"70 Quai Charles de Gaulle, 6th arr., 69006 Lyon, France",1,1,1,0,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1
+The Ruck Hotel,4,3.6 km from centre,0,0,0,1,"345 Avenue Jean Jaurès, 7th arr., 69007 Lyon, France",1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+"Radisson Blu Hotel, Lyon",4,1.8 km from centre,0,1,0,1,"129 rue Servient, 3rd arr., 69003 Lyon, France",1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0
+Boscolo Lyon Hotel & Spa,5,0.5 km from centre,1,1,0,1,"11 Quai Jules Courmont, 2nd arr., 69002 Lyon, France",1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0
+Globe Et Cecil,4,150 m from centre,0,1,0,1,"21, Rue Gasparin, 2nd arr., 69002 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,1
+Collège Hôtel,4,0.9 km from centre,0,1,0,1,"5 Place Saint Paul, 5th arr., 69005 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,0,1
+Hôtel Le Roosevelt,4,1.7 km from centre,0,1,0,1,"48, rue de Sèze, 6th arr., 69006 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,1,1
+Résidence Montempô Part Dieu,0,2.6 km from centre,0,0,0,1,"30 Avenue Georges Pompidou, 3rd arr., 69003 Lyon, France",1,1,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0
+Sofitel Lyon Bellecour,5,400 m from centre,0,1,0,1,"20 Quai Gailleton, 2nd arr., 69002 Lyon, France",1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,0
+Mercure Lyon Centre Saxe Lafayette,4,1.2 km from centre,1,1,0,1,"29 Rue de Bonnel, 3rd arr., 69003 Lyon, France",1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,0,1,1,0,1
+Okko Hotels Lyon Pont Lafayette,4,1.1 km from centre,0,1,0,1,"14 bis quai Général Sarrail, 6th arr., 69006 Lyon, France",1,1,1,0,0,1,1,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0
+B&B HOTEL LYON Centre Perrache Berthelot,3,1.1 km from centre,0,1,0,1,"43 Rue Raulin, 7th arr., 69007 Lyon, France",1,1,0,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1
+Novotel Lyon Confluence,4,2.2 km from centre,0,1,0,1,"3, rue Montrochet, 2nd arr., 69002 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,1
+Citadines Presqu'île Lyon,3,450 m from centre,0,0,0,1,"2 Rue Thomassin, 2nd arr., 69002 Lyon, France",0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,1,0
+Hôtel Edmond W Lyon Part-Dieu,3,2.2 km from centre,0,1,0,1,"17, Rue Professeur Weill, 6th arr., 69006 Lyon, France",1,1,1,0,1,1,1,1,1,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0
+Hotel Carlton Lyon - MGallery Hotel Collection,4,0.5 km from centre,0,1,0,1,"4 rue Jussieu, 2nd arr., 69002 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,1
+Mercure Lyon Centre Château Perrache,4,1.1 km from centre,0,1,1,1,"12 Cours Verdun Rambaud - Esplanade De La Gare, 2nd arr., 69002 Lyon, France",1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,1,0,0,1,0,1,1,1,0,0
+Republik Hotel,3,300 m from centre,0,0,0,1,"18 rue Bellecordière, 2nd arr., 69002 Lyon, France",1,1,1,1,1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0
+Hotelo Lyon Charité,2,1 km from centre,0,1,0,1,"86 Rue de la Charité, 2nd arr., 69002 Lyon, France",1,1,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0
+Hôtel Foch,3,1.6 km from centre,0,0,0,1,"59 Avenue Maréchal Foch, 6th arr., 69006 Lyon, France",1,1,1,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+Mercure Lyon Centre Plaza République,4,500 m from centre,0,1,0,1,"5 Rue Stella, 2nd arr., 69002 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,0,1,0,1,1,1,1,1,1,1
+Alexandra,4,0.6 km from centre,0,1,0,1,"49 Rue Victor Hugo, 2nd arr., 69002 Lyon, France",1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+Ibis Styles Lyon Croix Rousse,3,2.5 km from centre,0,1,0,1,"48 Rue Henon, 4th arr., 69004 Lyon, France",1,1,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0
+Aparthotel Adagio Lyon Patio Confluence,4,1.6 km from centre,0,0,0,0,"50 Cours Charlemagne, 2nd arr., 69002 Lyon, France",1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+Hotel Victoria Lyon Perrache Confluence,2,1.1 km from centre,0,1,0,1,"3 Rue Delandine, 2nd arr., 69002 Lyon, France",0,1,1,0,1,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Séjours & Affaires Lyon Saxe-Gambetta,0,1.1 km from centre,0,0,0,1,"34 Grande Rue De La Guillotière, 7th arr., 69007 Lyon, France",0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Crowne Plaza Lyon Parc de la Tête d'Or,4,3.6 km from centre,0,1,0,1,"22, Quai Charles De Gaulle, 6th arr., 69006 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,1,1
+Greet Hotel Lyon Confluence,3,1.1 km from centre,0,1,0,1,"26, cours De Verdun Perrache, 2nd arr., 69002 Lyon, France",1,1,1,0,0,0,1,0,1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,1,0,1,1,1,0,0
+Hôtel Tête d'or,2,1.9 km from centre,0,1,0,1,"62, rue Garibaldi, 6th arr., 69006 Lyon, France",1,1,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Le Phénix Hôtel,4,1 km from centre,0,1,0,1,"7 Quai De Bondy, 5th arr., 69005 Lyon, France",1,1,1,0,1,0,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0
+Hôtel Taggât,2,1.5 km from centre,0,0,0,1,"110 Rue Vendome, 6th arr., 69006 Lyon, France",0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0
+MiHotel Gailleton,0,300 m from centre,0,1,0,1,"2 place Gailleton, 2nd arr., 69002 Lyon, France",1,1,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,0
+Aparthotel Adagio Lyon Patio Confluence,4,1.6 km from centre,0,0,0,0,"50 Cours Charlemagne, 2nd arr., 69002 Lyon, France",1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+MiHotel Bellecour,0,100 m from centre,0,1,0,1,"5 Place Bellecour, 2nd arr., 69002 Lyon, France",1,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,1,0,1,0,0
+Hôtel du Simplon,3,0.9 km from centre,0,1,0,1,"11 Rue Duhamel, 2nd arr., 69002 Lyon, France",1,1,1,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0
+Campanile Lyon Centre - Gare Perrache - Confluence,3,0.9 km from centre,0,1,0,1,"17 Place Carnot, 2nd arr., 69002 Lyon, France",1,1,1,0,1,0,0,0,1,1,0,1,1,1,0,0,0,1,0,1,1,0,0,1,1,1,1,1,0,0
+MiHotel Tour Rose,0,0.7 km from centre,0,1,0,1,"22 Rue du Bœuf, 5th arr., 69005 Lyon, France",1,1,0,0,1,1,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,0,1,1,0,1,0,1,1,0
+Néméa Appart Hotel Résidence So Cloud,4,2 km from centre,1,0,0,1,"53 Rue Desaix, 3rd arr., 69003 Lyon, France",0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,0
+Séjours & Affaires Lyon Saxe-Gambetta,0,1.1 km from centre,0,0,0,1,"34 Grande Rue De La Guillotière, 7th arr., 69007 Lyon, France",0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Au Patio Morand,3,1.6 km from centre,0,0,0,1,"99, Rue de Créqui, 6th arr., 69006 Lyon, France",1,1,1,0,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Hôtel Saphir Lyon,3,2.5 km from centre,0,1,0,1,"18, Rue Louis Loucheur, 9th arr., 69009 Lyon, France",1,1,1,0,1,0,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,0,0,1,0,1,1,1,1,1
+Citadines Part-Dieu Lyon,3,1.4 km from centre,0,0,0,1,"91-95 Rue Moncey, 3rd arr., 69003 Lyon, France",0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,1,1,0
+ibis budget Lyon Centre Confluence,2,1.7 km from centre,0,1,0,1,"24, Quai Perrache, 2nd arr., 69002 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0
+Odalys City Lyon Confluence,0,1.7 km from centre,1,1,0,1,"7 cours Bayard, 2nd arr., 69002 Lyon, France",0,1,0,0,1,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,0
+Hotel Des Remparts Perrache,3,0.9 km from centre,0,0,0,1,"19, Place Carnot (côté Saône ), 2nd arr., 69002 Lyon, France",1,1,1,0,0,1,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0
+Séjours & Affaires Lyon Saint-Nicolas,0,2.1 km from centre,0,0,0,1,"90 Boulevard Vivier Merle, 3rd arr., 69003 Lyon, France",0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+Maison Nô - Hôtel et Rooftop,4,1 km from centre,0,1,0,1,"11 Rue du Bat d'Argent, 1st arr., 69001 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,0,1,0,0,0,0,1,0,1,1,0,0,1,1,0,0
+Privilodges Lyon,3,4.2 km from centre,0,0,0,1,"14 rue Jacqueline Auriol, Angle de l'avenue Jean Mermoz, Lyon, 8th arr., 69008 Lyon, France",1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,1,0,1,0,1,0,1,0,1,1,1,0,0
+MiHotel Bizolon,0,450 m from centre,0,0,0,1,"11 Rue Clotilde Bizolon, 2nd arr., 69002 Lyon, France",1,1,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,0,1,0,1,0,0
+Le Gourguillon,0,0.7 km from centre,0,0,0,1,"46, montée du Gourguillon, 5th arr., 69005 Lyon, France",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+Hôtel du Helder,2,0.9 km from centre,0,0,0,1,"38 Rue de Marseille, 7th arr., 69007 Lyon, France",0,1,1,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Hôtel du Dauphin,2,200 m from centre,0,0,0,1,"9, Rue Victor Hugo, 2nd arr., 69002 Lyon, France",0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0
+Hôtel Le Boulevardier,2,0.8 km from centre,0,1,0,1,"5, rue de la Fromagerie, 1st arr., 69001 Lyon, France",0,1,1,0,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Hotelo Lyon Ainay,2,0.9 km from centre,0,1,0,1,"19, Cours de Verdun-Gensoul, 2nd arr., 69002 Lyon, France",0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0
+Appart'City Lyon Part Dieu Garibaldi,2,1.8 km from centre,0,0,0,1,"40 Rue de l'Abondance, 3rd arr., 69003 Lyon, France",0,1,1,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+MiHotel Sala,0,300 m from centre,0,1,0,1,"26 Rue Sala, 2nd arr., 69002 Lyon, France",1,1,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,0,1,0,1,1,0
+Hôtel Mercure Lyon Centre Lumière,4,3 km from centre,0,1,0,1,"69 Cours Albert Thomas, 3rd arr., 69003 Lyon, France",1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,0,1,1,0,1,0,1,1,1,0,0
+Néméa Appart Hotel Résidence So Cloud,4,2 km from centre,1,0,0,1,"53 Rue Desaix, 3rd arr., 69003 Lyon, France",0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,0
+Hotel Le Royal Lyon - MGallery,5,150 m from centre,0,1,0,1,"20 Place Bellecour, 2nd arr., 69002 Lyon, France",1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0
+Mercure Lyon Centre Beaux-Arts,4,400 m from centre,0,1,0,1,"73-75 Rue du Président Edouard Herriot, 2nd arr., 69002 Lyon, France",1,1,1,0,0,0,1,0,1,1,1,0,1,1,1,0,0,1,1,1,0,0,0,1,1,1,1,1,0,1
+Grand Hotel des Terreaux,4,0.9 km from centre,1,0,0,1,"16 rue Lanterne, 1st arr., 69001 Lyon, France",1,1,1,0,1,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0
+MiHotel Vieux Lyon,0,500 m from centre,0,0,1,1,"3 Avenue du Doyenné, 5th arr., 69005 Lyon, France",1,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,1,0,0
+MiHotel Comte,0,350 m from centre,0,1,0,1,"17 Rue Auguste Comte, 2nd arr., 69002 Lyon, France",1,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,0,1,0,1,1,0
+Citadines Part-Dieu Lyon,3,1.4 km from centre,0,0,0,1,"91-95 Rue Moncey, 3rd arr., 69003 Lyon, France",0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,1,1,0
+ibis budget Lyon Gerland,2,3.6 km from centre,0,1,0,1,"1 Rue Jules Carteret, 7th arr., 69007 Lyon, France",0,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+Best Western Lyon Saint-Antoine,3,350 m from centre,0,1,0,1,"4 rue de l'ancienne préfecture, 2nd arr., 69002 Lyon, France",1,1,1,0,1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,1,0
+Mama Shelter Lyon,2,1.6 km from centre,0,1,0,1,"13 rue Domer, 7th arr., 69007 Lyon, France",1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1
+Residhome Lyon Gerland,3,2.3 km from centre,0,0,0,1,"2 Rue Marie Madeleine Fourcade, 7th arr., 69007 Lyon, France",1,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+Hotel Lyon-ouest,3,3.7 km from centre,0,1,0,1,"50, Quai Professeur Paul Sédallian, 9th arr., 69009 Lyon, France",1,0,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,1,1,1,0,0
+Appart hôtel Q7 Lodge Lyon 7,4,1.9 km from centre,0,0,0,1,"7 rue Félix Brun, 7th arr., 69007 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,0
+Mercure Lyon Centre Brotteaux,4,2.4 km from centre,0,1,0,1,"114, Boulevard des Belges, 6th arr., 69006 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,0,0,0,1,1,1,0,1,0,0
+Hôtel Charlemagne,4,1.5 km from centre,0,1,0,1,"23 Cours Charlemagne, 2nd arr., 69002 Lyon, France",1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,0,0,1,0,1,0,1,0,1,1,1,0,1,1,0
+Odalys City Lyon Bioparc,4,4.8 km from centre,0,1,0,1,"60, Avenue Rockefeller, 8th arr., 69008 Lyon, France",1,1,1,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0
+Residhotel Lyon Part Dieu,3,2.1 km from centre,0,1,0,1,"79 Boulevard Marius Vivier Merle, 3rd arr., 69003 Lyon, France",1,1,1,0,1,1,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,0
+ibis Lyon Part Dieu Les Halles,3,1.6 km from centre,0,1,1,1,"78, Rue de Bonnel, 3rd arr., 69003 Lyon, France",1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,1,1,1,1,0
+Comfort Suite Rive Gauche Lyon Centre,3,1.1 km from centre,0,0,0,1,"31, rue Chevreul, 7th arr., 69007 Lyon, France",1,1,1,0,1,0,1,0,1,1,1,0,1,0,0,0,0,1,0,0,0,1,0,1,1,1,0,1,0,0
+Hotel des Celestins,3,200 m from centre,0,0,0,1,"4 Rue des Archers, 2nd arr., 69002 Lyon, France",1,1,1,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0
+Adonis Lyon Dock Ouest,3,3.6 km from centre,0,1,0,1,"39 Rue Des Docks, 9th arr., 69009 Lyon, France",1,1,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0
+Appart'City Lyon Part-Dieu,3,2.2 km from centre,0,1,0,1,"111-113, Boulevard Vivier-Merle, 3rd arr., 69003 Lyon, France",0,1,1,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0
+B&B HOTEL Lyon Centre Part-dieu Gambetta,3,1.9 km from centre,0,0,0,1,"93 cours Gambetta, 3rd arr., 69003 Lyon, France",1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+MOB HOTEL Lyon Confluence,3,2.9 km from centre,0,1,0,1,"55 Quai Rambaud, 2nd arr., 69002 Lyon, France",1,1,1,0,0,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,0
+Ibis Budget Lyon Centre - Gare Part Dieu,2,2.3 km from centre,0,1,0,1,"52, Rue de la Villette, 3rd arr., 69003 Lyon, France",1,1,1,0,1,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1
+Odalys City Lyon Confluence,0,1.7 km from centre,1,1,0,1,"7 cours Bayard, 2nd arr., 69002 Lyon, France",0,1,0,0,1,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,0
+Ibis Styles Lyon Centre - Gare Part Dieu,3,2.3 km from centre,0,1,0,1,"54 rue de la Villette, 3rd arr., 69003 Lyon, France",1,1,1,0,0,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1
+Lagrange Aparthotel Lyon Lumière,4,3.1 km from centre,0,1,0,1,"81-85 Cours Albert Thomas, 3rd arr., 69003 Lyon, France",1,1,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,0,1,1,0,1,1,0,0
+Appart’City Confort Lyon Gerland,3,2.2 km from centre,0,0,0,1,"175 Avenue Jean Jaurès, 7th arr., 69007 Lyon, France",0,1,1,0,1,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0
+Résidence Villemanzy,3,1.6 km from centre,0,0,0,1,"21 Montee St Sebastien, 1st arr., 69001 Lyon, France",0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,1,0,1,0,0,0,1,1,1,1,1,0,0
+Keystone Boutique Hôtel,0,1.9 km from centre,0,1,0,1,"15 B Rue Casimir Périer, 2nd arr., 69002 Lyon, France",1,1,1,0,1,1,1,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0
+Séjours & Affaires Lyon Saint-Nicolas,0,2.1 km from centre,0,0,0,1,"90 Boulevard Vivier Merle, 3rd arr., 69003 Lyon, France",0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+Mercure Lyon Centre - Gare Part Dieu,4,2.3 km from centre,0,1,0,1,"50 Rue de la Villette, 3rd arr., 69003 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,0,1,0,0,1,1,0,1,1,1,1,1,0,1
+ibis Styles Lyon Centre Confluence,3,1.7 km from centre,0,1,1,1,"24 quai Perrache, 2nd arr., 69002 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0
+Appart’City Lyon Vaise St Cyr,2,3.4 km from centre,0,0,0,1,"51, bis rue de Saint Cyr, 9th arr., 69009 Lyon, France",0,1,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+ibis Lyon Centre Perrache,3,1.1 km from centre,0,1,0,1,"28 Cours de Verdun Perrache, 2nd arr., 69002 Lyon, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0
+Novotel Lyon Gerland Musée des Confluences,4,2.8 km from centre,1,1,0,1,"70 Avenue Leclerc, 7th arr., 69007 Lyon, France",1,1,1,0,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,1,0,0
+B&B HOTEL Lyon Centre Monplaisir,2,3.4 km from centre,0,0,0,1,"9 rue Antoine Lumière, 8th arr., 69008 Lyon, France",1,1,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+Hôtel Maison Lacassagne Lyon,4,4.9 km from centre,0,1,0,1,"245 Avenue Lacassagne, 3rd arr., 69003 Lyon, France",1,1,1,0,1,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0
+Les Annexes de l'Hôtel Tête d'Or,0,1.9 km from centre,0,0,0,1,"62 Rue Garibaldi, 6th arr., 69006 Lyon, France",1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+Hôtel Villa Berlioz,3,1.3 km from centre,0,1,0,1,"12 Cours Charlemagne, 2nd arr., 69002 Lyon, France",1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0
+MiHotel Charité,0,0.6 km from centre,0,1,0,1,"31 Rue de la Charité, 2nd arr., 69002 Lyon, France",1,1,0,0,1,0,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,0
+ibis Lyon Gerland Musée des Confluences,3,2.8 km from centre,0,1,0,1,"68 Avenue Leclerc, 7th arr., 69007 Lyon, France",1,1,1,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0
+Hotel de Bretagne,1,0.7 km from centre,0,0,0,1,"10 rue Dubois, 2nd arr., 69002 Lyon, France",0,1,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+Hôtel de La Marne,2,0.9 km from centre,0,1,0,1,"78 rue de la Charité, 2nd arr., 69002 Lyon, France",1,1,1,0,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Hotel de Normandie,2,1.1 km from centre,0,0,0,0,"3 Rue du Bélier, 2nd arr., 69002 Lyon, France",0,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0
+MiHotel Blandan,0,1.2 km from centre,0,0,1,1,"42 Rue Sergent Blandan, 1st arr., 69001 Lyon, France",1,1,0,0,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,1,1,1,0,1,0,1,1,1

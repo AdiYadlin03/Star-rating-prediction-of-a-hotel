@@ -1,0 +1,153 @@
+hotel_names,star_rating,distance_from_center,swimmingpool,breakfast,breakfast_and_dinner,free_cancellation,address,Air conditioning,Heating,WiFi is available in all areas and is free of charge.,City view,Wardrobe or closet,Soundproofing,TV,Coffee machine,Private bathroom,Lift,Safety deposit box,Pets are allowed. Charges may be applicable.,24-hour front desk,Bar,Room service,Fitness centre,Spa lounge/relaxation area,Electric kettle,Minibar,Tea/Coffee maker,Restaurant,Parking garage,Airport shuttle,Non-smoking rooms,24-hour security,Towels,Facilities for disabled guests,Hairdryer,Iron,Electric vehicle charging station
+Share Inn,0,250 m from centre,0,0,0,1,"21 Rue Massena, 06000 Nice, France",1,1,1,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0
+Hôtel Apollinaire Nice,4,400 m from centre,0,1,0,1,"25 Boulevard Dubouchage, 06000 Nice, France",1,1,1,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0
+Goldstar Apartments & Suites,4,0.7 km from centre,0,1,0,1,"45, Rue Maréchal Joffre, 06000 Nice, France",1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,1,0,1,1,1,0,1,1,1,1,0
+Le Meridien Nice,4,400 m from centre,1,1,0,1,"1, promenade des Anglais, 06000 Nice, France",1,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,1,1,1,1,1,0,0
+Best Western Plus Hôtel Massena Nice,4,100 m from centre,0,1,0,1,"58, rue Gioffredo, 06000 Nice, France",1,1,1,0,0,1,1,0,1,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,0,1
+Hotel Le Negresco,5,1 km from centre,0,0,0,1,"37 Promenade Des Anglais, 06000 Nice, France",1,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,0
+AC Hotel Nice by Marriott,4,1.4 km from centre,1,1,0,1,"59 Promenade des Anglais, 06000 Nice, France",1,1,1,0,0,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,0
+Trocadero,2,0.8 km from centre,0,0,0,1,"7, Rue de Belgique, 06000 Nice, France",1,1,0,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Westminster Hotel & Spa Nice,4,0.8 km from centre,0,0,0,0,"27 Promenade Des Anglais, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,0
+Best Western Premier Hotel Roosevelt,4,300 m from centre,0,1,0,1,"16 Rue Marechal Joffre, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,0,1,1,0,0,0,0,1,1,1,0,1,0,0
+Club Inn,0,0.5 km from centre,0,0,0,1,"11 Rue Massenet, 06000 Nice, France",1,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0
+Hotel Du Midi,3,0.8 km from centre,0,0,0,1,"16 rue d'Alsace-Lorraine, 06000 Nice, France",1,1,1,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0
+Hotel Saint Gothard,3,0.8 km from centre,0,0,0,1,"20 Rue Paganini, 06000 Nice, France",1,1,0,0,1,0,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0
+Hotel Boréal Nice,3,400 m from centre,0,1,0,1,"9, Rue Paul Déroulède, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0
+Residhome Nice Promenade,3,1.5 km from centre,0,0,0,1,"3-5 Boulevard François Grosso, 06000 Nice, France",1,1,1,1,1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,0
+Splendid Hotel & Spa Nice,4,0.8 km from centre,1,1,0,1,"50, Boulevard Victor Hugo, 06000 Nice, France",1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,1,0,1,0,1
+Albert 1er,3,250 m from centre,0,1,0,1,"4 avenue Max Gallo, 06000 Nice, France",1,1,1,1,1,1,1,0,1,1,1,0,1,0,1,0,0,1,1,1,0,0,0,1,0,1,1,1,0,0
+Hotel Florence Nice,3,400 m from centre,0,1,0,1,"3 rue Paul Déroulède, 06000 Nice, France",1,1,1,0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,1,1,0,1,0,1,1,0,0,1,0,0
+Hotel d'Ostende,2,0.8 km from centre,0,0,0,1,"3, Rue d'Alsace-Lorraine , 06000 Nice, France",1,1,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+"Hôtel de France, un hôtel AMMI",3,1 km from centre,0,1,0,1,"58 Rue De France, 06000 Nice, France",1,1,0,0,1,1,1,1,1,1,1,0,1,0,1,0,0,1,0,1,0,0,1,1,1,1,0,1,1,0
+"Le Windsor, Jungle Art Hotel",4,0.7 km from centre,1,1,0,1,"11, Rue Dalpozzo, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0
+Hotel La Villa Nice Victor Hugo,3,450 m from centre,0,1,0,1,"19 Boulevard Victor Hugo, 06000 Nice, France",1,1,1,0,1,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0
+Hotel Busby,3,0.6 km from centre,0,1,0,1,"38 Rue Marechal Joffre, 06000 Nice, France",1,1,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0
+Hôtel Le Petit Palais,4,0.9 km from centre,1,1,0,1,"17, Av. Emile Bieckert, 06000 Nice, France",1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0
+The Deck Hotel by Happyculture,4,400 m from centre,0,1,0,1,"2 Rue Maccarani, 06000 Nice, France",1,1,0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0
+Mercure Nice Promenade Des Anglais,4,450 m from centre,0,1,0,1,"2 Rue Halévy, 06000 Nice, France",1,1,0,0,1,1,1,1,1,1,1,0,1,0,1,0,0,1,0,1,0,1,0,1,1,1,1,1,1,1
+Residhome Nice Aéroport,0,5.6 km from centre,0,0,0,1,"455 Promenade des Anglais, batiment Nouvel'R, Arenas, 06200 Nice, France",1,1,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,1,0
+Ibis Styles Nice Centre Port,3,1.1 km from centre,0,1,0,1,"8 Rue Emmanuel Phillibert, 06300 Nice, France",1,1,1,1,1,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+La Malmaison Nice Boutique Hôtel,4,0.8 km from centre,0,1,0,1,"48, Boulevard Victor Hugo, 06000 Nice, France",1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,0,0,0,1,1,1,0,1,0,0
+Best Western Hotel Lakmi Nice,3,0.6 km from centre,0,0,0,1,"44 avenue du Maréchal Foch, 06000 Nice, France",1,1,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,0,0
+Hotel Le Grimaldi by Happyculture,4,400 m from centre,0,1,0,1,"15 rue Grimaldi , 06000 Nice, France",1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,0,0
+Le Dortoir Boutique Suites,0,200 m from centre,0,0,0,1,"11 rue Paradis, 06000 Nice, France",1,1,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,1,0,0
+Ajoupa Aparthotel AMMI Massena,2,100 m from centre,0,1,0,1,"4 rue Massena, 06000 Nice, France",1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,1,1,0
+Hôtel Esprit d'Azur,3,1.3 km from centre,0,1,0,1,"4 Rue Barberis, Riquier, 06300 Nice, France",1,1,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0
+Hotel Paganini,3,0.8 km from centre,0,0,0,1,"20 Rue d'Alsace-Lorraine, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Locarno,3,1.5 km from centre,0,1,0,1,"4 Avenue Des Baumettes, 06000 Nice, France",1,1,0,0,1,1,1,0,1,1,1,0,1,0,0,0,0,1,1,1,0,0,1,1,1,1,1,1,0,0
+Hôtel Vendôme,3,350 m from centre,0,1,0,1,"26 Rue Pastorelli, 06000 Nice, France",1,1,1,0,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,0,0
+Hôtel Amaryllis,3,0.8 km from centre,0,0,0,1,"5 rue d'Alsace-Lorraine, 06000 Nice, France",1,1,1,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+Campanile Nice Aéroport,3,5.6 km from centre,0,1,0,1,"459 - 461 Promenade Des Anglais, L'arenas, Arenas, 06200 Nice, France",1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0
+Hotel La Villa Nice Promenade,4,1.2 km from centre,0,1,0,1,"11 Rue Saint Philippe, 06000 Nice, France",1,1,1,1,1,1,1,0,1,1,1,0,1,1,0,0,0,1,0,1,0,0,0,1,1,0,1,1,1,0
+"Le Riviera Collection, Signature Collection by Best Western",4,0.9 km from centre,0,1,0,1,"36, Rue Rossini, 06000 Nice, France",1,1,1,0,0,1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,0,0,0,1,1,1,1,1,0,0
+Bristol Nice,3,0.8 km from centre,0,1,0,1,"22, rue Paganini, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Hotel Saint Georges,4,0.6 km from centre,0,0,0,1,"7 Avenue Georges Clémenceau, 06000 Nice, France",1,1,0,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,0,0,1,1,1,0,1,1,0
+Anantara Plaza Nice Hotel,5,200 m from centre,0,0,1,1,"12 Avenue de Verdun, 06000 Nice, France",1,0,1,0,0,0,1,0,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,1,1,0,0
+"Hôtel Du Centre, un hôtel AMMI",2,0.7 km from centre,0,0,0,1,"2 Rue De Suisse, 06000 Nice, France",1,1,1,0,1,0,1,1,1,1,1,1,1,0,1,0,0,1,0,0,1,0,1,1,1,1,0,1,0,0
+Nice Excelsior Centre ville,4,0.8 km from centre,0,1,0,1,"19 avenue Durante, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,0,1,0,1,0,0,0,1,1,1,1,1,0,0
+Best Western Plus Hôtel Brice Garden Nice,4,0.7 km from centre,0,1,0,1,"44, rue du Maréchal-Joffre, 06000 Nice, France",1,1,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+Ibis Styles Nice Centre Gare,3,0.7 km from centre,0,1,0,1,"3-5 Avenue Durante, 06000 Nice, France",1,1,1,0,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1
+Mercure Nice Centre Notre Dame,4,0.7 km from centre,1,0,0,1,"28 Avenue Notre Dame, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0,1,1,1,1,0
+Palm Hôtel Nice,3,400 m from centre,0,0,0,1,"8 Rue Maccarani, 06000 Nice, France",1,1,1,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0
+Hotel Villa Victoria,4,0.6 km from centre,0,1,0,1,"33, boulevard Victor Hugo, 06000 Nice, France",1,1,1,0,1,1,0,0,1,1,1,0,1,1,1,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0
+Hotel Aston La Scala,4,200 m from centre,1,1,0,1,"12 Felix Faure, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0
+Best Western Alba,4,0.7 km from centre,0,1,0,1,"41 Avenue Jean Medecin, 06000 Nice, France",1,1,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,1,1,0,0
+Hotel Aria,3,0.7 km from centre,0,1,0,1,"15, Avenue Auber, 06000 Nice, France",1,1,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0
+Hôtel Byakko Nice,3,0.8 km from centre,0,1,0,1,"6 Rue Miron, 06000 Nice, France",1,1,1,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Hôtel Le Royal Promenade des Anglais,3,0.7 km from centre,0,0,0,1,"23, Promenade Des Anglais, 06000 Nice, France",1,1,1,0,1,0,1,0,1,0,1,0,1,1,1,0,0,0,1,0,1,0,0,1,1,1,1,1,0,0
+Hotel Solara,2,450 m from centre,0,0,0,1,"7, Rue de France, 06000 Nice, France",1,1,1,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0
+Hôtel Nice Azur Riviera,4,0.9 km from centre,0,1,0,1,"19 Rue Assalit, 06000 Nice, France",1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,0,1,0,1,0,1,1,1,1,0
+Hotel Nap By HappyCulture,3,250 m from centre,0,1,0,1,"44 Rue Pastorelli, 06000 Nice, France",1,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0
+Sonder at Yelo Jean Médecin,4,0.8 km from centre,0,1,0,1,"47 bis avenue Jean Médecin, 06000 Nice, France",1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0
+Boutique Hotel Nice Côte d'azur,4,0.8 km from centre,0,1,0,0,"18 Avenue Durante, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,0,1,1,0,0,1,0,1,0,0,0,1,1,1,1,1,1,0
+Best Western Plus Nice Cosy Hotel,4,0.8 km from centre,0,1,0,1,"3 rue de Belgique, 06000 Nice, France",1,1,1,0,1,1,0,0,1,1,1,0,1,1,1,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0
+Hotel Beau Rivage,4,250 m from centre,0,1,0,1,"24 Rue Saint François De Paule, 06300 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0
+Villa Otero by Happyculture,4,1 km from centre,0,1,0,1,"58 Rue Hérold, 06000 Nice, France",1,1,0,0,1,0,1,0,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,1,1,0,0
+Sheraton Nice Airport,4,5.8 km from centre,1,1,0,1,"480 Promenade des Anglais, Arenas, 62000 Nice, France",1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0
+Hotel Suisse,4,0.9 km from centre,0,1,0,1,"15 Quai Rauba-Capeu, 06300 Nice, France",1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,0,0,1,1,1,0,0,0,1,0,1,0,1,0,0
+Hotel Le Saint Paul,3,1.8 km from centre,0,0,0,1,"29, Bd Franck Pilatte, Mont Boron, 06300 Nice, France",1,1,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0,1,0,0,1,1,0,1,1,1,1,0,0,0
+Hôtel Univers,4,100 m from centre,0,1,0,1,"2, Rue De La Liberté, 06000 Nice, France",1,1,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+Boscolo Nice Hotel & Spa,5,350 m from centre,1,1,0,1,"12 Boulevard Victor Hugo, 06000 Nice, France",1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,1
+The Jay Hotel by HappyCulture,4,0.7 km from centre,0,0,0,1,"21 Rue Meyerbeer, 06000 Nice, France",1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0,0,1,1,1,1,1,1,0
+Hôtel West End Promenade,4,0.9 km from centre,0,1,0,1,"31, Promenade Des Anglais, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,0,1,1,0,0
+Nemea Appart'hôtel Nice Riviera,4,4.9 km from centre,0,0,0,1,"373 Promenade des Anglais, Arenas, 06200 Nice, France",1,1,1,0,0,0,1,0,1,1,1,0,1,1,1,0,0,1,0,1,0,1,0,1,1,1,0,1,1,0
+Aparthotel Adagio Access Nice Acropolis,2,1.1 km from centre,1,0,0,1,"42 Boulevard Risso, Riquier, 06300 Nice, France",1,1,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0
+Hotel So’Co by Happyculture,3,1 km from centre,0,1,0,1,"27 Avenue Thiers, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0
+"Holiday Inn Nice, an IHG Hotel",4,450 m from centre,0,1,0,1,"20 Boulevard Victor Hugo, 06000 Nice, France",1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,0,1,0,0,1
+"Holiday Inn Express - Nice - Grand Arenas, an IHG Hotel",3,5.8 km from centre,0,1,0,1,"165 Boulevard René Cassin , Arenas, 06200 Nice, France",1,1,1,1,1,1,1,0,1,1,1,0,1,1,0,0,0,1,0,1,0,1,0,1,0,1,1,1,0,0
+Villa Bougainville by Happyculture,4,1 km from centre,0,1,0,1,"29 Avenue Thiers, 06000 Nice, France",1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,1,1,0,1,0,0
+Hotel Apogia Nice,4,1.4 km from centre,0,1,0,1,"26, rue smolett, Riquier, 06300 Nice, France",1,1,1,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,1,0,1,0,1,1,1,1,0
+Radisson Blu Hotel Nice,4,3.2 km from centre,1,1,0,1,"223 promenade Des Anglais, Fabron, 06200 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,1,0,1,1,1,1,1
+NH Nice,4,1.5 km from centre,1,1,0,1,"2-4, Parvis de L'Europe, 06300 Nice, France",1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,0,1,1,1,0,0
+Villa Berlioz,0,1 km from centre,0,0,0,1,"55 Rue Berlioz, 06000 Nice, France",1,1,1,0,1,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0
+HOTEL AMOUR NICE,0,1.2 km from centre,1,0,0,0,"3, avenue des Fleurs, 06000 Nice, France",1,1,1,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0
+Adagio Nice Centre,4,1.5 km from centre,1,1,0,1,"22, Boulevard Du Général Louis Delfino, Riquier, 06300 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0
+Twenty's Business Flats Nice Angely,0,2.2 km from centre,0,0,0,1,"7 Rue Albert Voisin, 06300 Nice, France",0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Hotel 64 Nice,4,0.9 km from centre,0,1,0,1,"64 avenue Jean Médecin, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0
+Hotel Nice Riviera,4,200 m from centre,1,0,0,1,"45-47, rue Pastorelli, 06000 Nice, France",1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0
+Hôtel les Cigales,3,0.6 km from centre,0,1,0,1,"16 Rue Dalpozzo, 06000 Nice, France",1,1,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+Novotel Nice Centre Vieux Nice,4,1.4 km from centre,1,1,0,1,"8-10 Parvis de l'Europe, 06300 Nice, France",1,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,1,1,1,1,1,0,1
+Hôtel Helvétique,3,150 m from centre,0,0,0,1,"47 Rue de L'Hôtel des Postes, 06000 Nice, France",1,1,1,0,1,0,1,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,1,0,0
+Aparthotel Adagio Nice Promenade des Anglais,4,2.7 km from centre,0,0,0,1,"179 Promenade des Anglais, 06200 Nice, France",1,1,1,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0
+ApartHotel Riviera - Old Town Promenade des Anglais,0,0.7 km from centre,0,0,0,1,"Different Addresses in Old Town / Promenade des Anglais, please check your email confirmation, 06300 Nice, France",1,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,1,0
+Hotel Le Meurice,3,350 m from centre,0,0,0,1,"14 Avenue De Suede, 06000 Nice, France",1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+Hotel Khla Nice,3,0.8 km from centre,0,0,1,1,"31 rue Paganini, 06000 Nice, France",1,1,1,0,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0
+Hotel Villa Les Cygnes,3,1.7 km from centre,0,0,0,0,"6, Avenue Chateau de la Tour, 06000 Nice, France",1,1,1,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+Hotel 66 Nice,4,0.8 km from centre,0,1,0,1,"6, rue de Belgique, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0
+Radisson Hotel Nice Airport,4,6 km from centre,1,1,0,1,"24 rue Costes et Bellonte, Arenas, 06200 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,1,0,1,1,1,0,1,0,1,1,1,1,0
+Hotel Villa Rivoli,3,0.9 km from centre,0,1,0,1,"10, Rue De Rivoli, 06000 Nice, France",1,1,1,0,0,1,0,0,1,0,1,0,1,1,1,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0
+Hotel Carlton Nice,3,0.5 km from centre,0,1,0,1,"26 Boulevard Victor Hugo, 06000 Nice, France",1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+Campanile Hotel Nice Centre Acropolis,3,0.9 km from centre,0,1,0,1,"58, Boulevard risso, 06300 Nice, France",1,1,1,0,1,0,1,0,1,1,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,1,1,1,0,0
+Arome Hotel,3,1.1 km from centre,0,0,0,1,"65, Rue de la Buffa, 06000 Nice, France",1,1,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0
+Hotel De Suède,3,350 m from centre,0,1,0,1,"18 Avenue De Suède, 06000 Nice, France",1,1,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+Hotel des Dames,1,1.4 km from centre,0,1,0,1,"10 Rue Barberis, Riquier, 06300 Nice, France",0,1,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1,1,1,0,1,0,0
+Boutique Hôtel Neptune Nice,0,50 m from centre,0,0,0,1,"2 Rue Massena, 06000 Nice, France",1,1,1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0
+Mercure Nice Centre Grimaldi,4,350 m from centre,0,1,0,1,"6, Rue Grimaldi, 06000 Nice, France",1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,0,1,0,0,0,1,0,1,1,1,1,0
+Novotel Nice Arenas Aeroport,4,5.7 km from centre,0,1,0,1,"455 Promenade Des Anglais, Arenas, 06299 Nice, France",1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,0,0,1,0,1,1,1,1,1,0,1,1,1,0,0
+Mercure Nice Marché Aux Fleurs,4,400 m from centre,0,1,0,1,"91 Quai Des États Unis, 06300 Nice, France",1,1,0,0,1,1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,0,0,1,0,1,1,1,0,0
+Hotel Villa Rose,3,2 km from centre,0,1,0,1,"43 Avenue Bellevue, 06100 Nice, France",1,1,1,1,1,1,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,1,0,0
+Aparthotel Adagio Access Nice Magnan,2,2.2 km from centre,1,0,0,1,"12 Avenue de la Californie, 06200 Nice, France",1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Hôtel Monsigny,3,1.2 km from centre,0,1,0,1,"17, avenue Malaussena, 06000 Nice, France",1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0
+Résidence Lamartine - Nice,4,0.7 km from centre,0,1,0,1,"34 rue Lamartine, 06000 Nice, France",1,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,1,1,0
+ApartHotel Riviera - Grimaldi Promenade des Anglais,0,350 m from centre,0,0,0,1,"Different Addresses in Grimaldi / Promenade des Anglais, please check your email confirmation, 06000 Nice, France",1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0,1,1,0
+Hotel de Berne,2,0.9 km from centre,0,0,0,1,"1 avenue Thiers, 06000 Nice, France",1,1,1,0,0,0,1,0,1,1,1,0,1,0,1,0,0,0,0,1,0,0,1,1,1,1,0,1,1,0
+Hôtel de la Fontaine,3,0.8 km from centre,0,1,0,1,"49 rue de France, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,0
+ibis Styles Nice Aéroport Arenas,3,5.3 km from centre,1,1,0,1,"127 Boulevard Rene Cassin, Arenas, 06200 Nice, France",1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0
+Hotel Flots d'Azur,3,2 km from centre,0,0,0,0,"101 Promenade des anglais, 06000 Nice, France",1,1,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+Hotel Victor Hugo Nice,2,0.9 km from centre,0,1,0,1,"59, Bd Victor Hugo, 06000 Nice, France",1,1,1,1,1,0,1,0,1,0,1,1,0,0,1,0,0,1,0,1,0,1,1,1,0,1,0,1,1,0
+easyHotel Nice Palais des Congrès – Old Town,2,1.5 km from centre,0,0,0,1,"38 rue Barberis, Riquier, 06300 Nice, France",1,1,1,0,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0
+Esatitude Hotel,3,2.5 km from centre,0,1,0,1,"3 Rue de Roquebilière, 06300 Nice, France",1,1,1,0,1,1,0,0,1,1,1,0,1,0,0,0,0,1,0,1,1,1,0,1,1,1,1,1,1,1
+Le Panoramic Boutique Hôtel,2,3 km from centre,0,1,0,1,"107, Bd Bischoffsheim. - Grande Corniche, 06300 Nice, France",1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,1,0
+"Hôtel Le Seize, Nice Centre",3,150 m from centre,0,1,0,1,"16 Rue Chauvain, 06000 Nice, France",1,1,1,0,1,0,1,0,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0
+Hotel du Pin Nice Port,3,1.1 km from centre,0,1,0,0,"6 Rue Emmanuel Philibert Place Du Pin, 06300 Nice, France",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0
+Kyriad Nice - Stade,3,6.3 km from centre,0,1,0,1,"27 avenue Auguste Verola, 06200 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,0
+L'alcôve Hôtel,3,1.3 km from centre,0,1,0,1,"12 rue Andrioli, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0
+OKKO Hotels Nice Aéroport,4,5.6 km from centre,0,1,0,1,"147 Boulevard René Cassin, Arenas, 06200 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,1,0
+Appart'City Nice Acropolis,3,1.8 km from centre,0,0,0,1,"18 bis Route de Turin, 06300 Nice, France",1,1,1,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+Hôtel restaurant Oasis,3,0.8 km from centre,0,1,0,1,"23 rue Gounod, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,1,0
+Hôtel Relais Acropolis,3,1.3 km from centre,0,1,0,1,"20 Boulevard Risso, Riquier, 06300 Nice, France",1,1,1,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0
+"Crowne Plaza - Nice - Grand Arenas, an IHG Hotel",4,5.8 km from centre,0,1,0,1,"2 Rue Costes et Bellonte, Arenas, 06200 Nice, France",1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,0,1,1,1,1,0
+Interlaken,2,0.9 km from centre,0,0,0,1,"26 Avenue Durante, 06000 Nice, France",0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+Hôtel Parisien,3,1.2 km from centre,0,0,0,1,"10 Rue Vernier, 06000 Nice, France",1,1,0,0,1,0,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+Odalys City Nice Le Palais Rossini,0,1.1 km from centre,0,1,0,1,"57 Avenue Gambetta, 06000 Nice, France",1,1,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+Aparthotel AMMI Vieux Nice,3,0.7 km from centre,0,1,0,1,"10 Boulevard Jean Jaurès, 06300 Nice, France",1,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,1,1,0
+Premiere Classe Nice - Promenade des Anglais,2,4.9 km from centre,0,0,0,1,"385, Promenade des Anglais, Arenas, 06200 Nice, France",1,1,1,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+ibis budget Nice Aeroport,2,5.6 km from centre,0,1,0,1,"455, promenade des Anglais, Arenas, 06200 Nice, France",1,1,1,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+ibis budget Nice Californie Lenval,2,2.5 km from centre,0,0,0,1,"58/60 Avenue de la Californie, 06200 Nice, France",1,1,1,0,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+L'Abeille - Boutique Apartments,4,1 km from centre,0,0,1,1,"4 Rue Bonaparte, 06300 Nice, France",1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0
+Maison Durante,3,0.8 km from centre,0,0,1,1,"16 Avenue Durante, 06000 Nice, France",1,1,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,1,1,0,1,0,1,1,0
+Hotel Lepante,2,0.6 km from centre,0,0,0,0,"6, rue de Lépante, 06000 Nice, France",1,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+ibis Nice Centre Gare,3,1 km from centre,1,1,0,1,"14 Avenue Thiers, 06000 Nice, France",1,1,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0
+Nice Appart,0,0.9 km from centre,0,0,0,0,"55, Rue de Buffa / angle Rue de Rivoli , 06000 Nice, France",1,1,1,0,0,0,0,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,1,0
+Novotel Suites Nice Airport,4,5.3 km from centre,1,1,0,1,"125 Boulevard Rene Cassin, Arenas, 06200 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,0,0,0,1,1,1,1,1,0,0
+B&B HOTEL Nice Aéroport Arenas,3,5.3 km from centre,0,0,0,1,"102 à 108 boulevard René Cassin, Arenas, 06200 Nice, France",1,1,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1
+City Résidence Nice,0,2.5 km from centre,0,0,0,1,"3 IMPASSE GUIDOTTI, 06300 Nice, France",0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+ibis Nice Aéroport Promenade des Anglais,3,4.7 km from centre,0,1,1,1,"359 Promenade des Anglais, Arenas, 06200 Nice, France",1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0
+Hotel Ibis Budget Nice Palais Nikaia,2,6 km from centre,0,0,0,1,"8 avenue Pierre Isnard, 06200 Nice, France",1,1,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0
+ibis Nice Centre Notre Dame,3,0.8 km from centre,0,1,0,1,"41, rue Lamartine, 06000 Nice, France",1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0
+Hôtel Azur,2,3.8 km from centre,0,0,0,1,"311, Promenade des Anglais, 06200 Nice, France",1,1,1,0,1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0
+Logis Hôtel Villa Victorine,2,4.3 km from centre,0,0,0,1,"11 avenue du Docteur Emile Roux, Arenas, 06200 Nice, France",1,1,1,0,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1
+H33 Hôtel,2,300 m from centre,0,0,0,0,"33 Rue Pastorelli, 06000 Nice, France",1,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Résidence Akantha,0,400 m from centre,0,0,0,0,"2 -ème étage porte face a l ascenseur 16 Rue Halévy, 06000 Nice, France",1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0
+Hotel Cronstadt,3,1.1 km from centre,0,0,0,0,"3 Rue Cronstadt, 06000 Nice, France",1,1,1,0,0,0,1,0,1,0,1,0,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,1,0,0
+Villa Madeleine - Résidence Services,0,4.4 km from centre,0,0,0,0,"307 Boulevard de la Madeleine, 06000 Nice, France",0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0
